@@ -1,16 +1,15 @@
 # tmux-containers
 
-```
-up(5) ram(2.3GB) disk(15.7GB) 
-```
-
 A tmux plugin that displays Docker container information in your status line.
+
+<img width="685" height="36" alt="image" src="https://github.com/user-attachments/assets/9d02dd18-6c76-4f1a-b0ba-78becaa1063a" />
+
 
 ## Features
 
+- 🐳 Shows count of active Docker containers
 - 📊 Shows Docker memory usage 
 - 💾 Displays Docker total disk usage
-- 🐳 Shows count of active Docker containers
 
 ## Installation
 
