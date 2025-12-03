@@ -61,7 +61,3 @@ set -g status-right "#{containers}"
 ```bash
 tmux source-file ~/.tmux.conf
 ```
-
-## License
-
-MIT
